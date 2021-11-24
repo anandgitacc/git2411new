@@ -12,7 +12,7 @@ public void empName() {
 		System.out.println("8939278836");
 	}
 	
-	private void empLocation() {
+	private void empLoc() {
 		
 		System.out.println("chennai");
 	}
