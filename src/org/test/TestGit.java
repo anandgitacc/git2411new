@@ -11,10 +11,17 @@ public void empName() {
 		
 		System.out.println("8939278836");
 	}
-	
-	private void empLoc() {
+private void empLoc() {
 		
 		System.out.println("chennai");
+}
+//=======
+	private void empBike() {
+		
+		System.out.println("RE");
+//<<<<<<< HEAD
+	
+//>>>>>>> 68b871840be0e47a677339f75ad286a03122872e
 	}
 	
 		
